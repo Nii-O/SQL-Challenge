@@ -1,4 +1,4 @@
-# SQL Homework - Employee Database: A Mystery in Two Parts
+# SQL Challenge - Employee Database: A Mystery in Two Parts
 
 ![sql.png](sql.png)
 
@@ -101,7 +101,7 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 ## Rubric
 
-[Unit 9 Rubric - SQL Homework - Employee Database: A Mystery in Two Parts](https://docs.google.com/document/d/1OksnTYNCT0v0E-VkhIMJ9-iG0_oXNwCZAJlKV0aVMKQ/edit?usp=sharing)
+[Unit 9 Rubric - SQL Challenge - Employee Database: A Mystery in Two Parts](https://docs.google.com/document/d/1OksnTYNCT0v0E-VkhIMJ9-iG0_oXNwCZAJlKV0aVMKQ/edit?usp=sharing)
 
 - - -
 
